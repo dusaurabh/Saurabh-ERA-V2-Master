@@ -18,3 +18,23 @@
   4. tensorboard related stuff
   5. advanced training policies, etc
   6. etc
+
+
+### Have pull the utils.py, main.py and models.py file to my Assignment_11.ipynb notebook
+### Inside utils.py file we have defined 
+  1. Image transforms 
+  2. Gradcam
+  3. Misclassification code
+
+### Inside main.py file we have defined
+  1. training and testing loops
+  2. data split between test and train
+
+### Inside models.py folder we have made Assignment_11_models.py to defined our Resnet18 model architecture
+
+We have train our Resnet18 model for 20 epochs, the maximum accuracy we got is 89.19% at epoch 20th
+
+EPOCH: 20
+Loss=0.6456969976425171 Batch_id=97 Accuracy=77.24: 100%|██████████████████████████████| 98/98 [00:48<00:00,  2.02it/s]
+
+Test set: Average loss: 0.3286, Accuracy: 8919/10000 (89.19%)
