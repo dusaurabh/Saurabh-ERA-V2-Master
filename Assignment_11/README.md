@@ -38,3 +38,19 @@ EPOCH: 20
 Loss=0.6456969976425171 Batch_id=97 Accuracy=77.24: 100%|██████████████████████████████| 98/98 [00:48<00:00,  2.02it/s]
 
 Test set: Average loss: 0.3286, Accuracy: 8919/10000 (89.19%)
+
+# Below is 10 misclassified images
+
+![Misclassified Images](outputs/misclassification_photo_1.png)
+
+# Below is 10 Grad Cam images on 10 misclassified images
+![Grad_Cam_Images](outputs/grad_cam_1.png)
+![Grad_Cam_Images](outputs/grad_cam_2.png)
+![Grad_Cam_Images](outputs/grad_cam_3.png)
+![Grad_Cam_Images](outputs/grad_cam_4.png)
+![Grad_Cam_Images](outputs/grad_cam_5.png)
+![Grad_Cam_Images](outputs/grad_cam_6.png)
+![Grad_Cam_Images](outputs/grad_cam_7.png)
+![Grad_Cam_Images](outputs/grad_cam_8.png)
+![Grad_Cam_Images](outputs/grad_cam_9.png)
+![Grad_Cam_Images](outputs/grad_cam_10.png)
