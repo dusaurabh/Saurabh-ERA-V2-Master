@@ -74,7 +74,7 @@ Starting training for 10 epochs...
 **Results**
 After training for 10 Epochs, results look awesome!
 
-![Trained_images](train_batch0.jpeg)
+![Trained_images](train_batch0.png)
 
 
 # Then we have tested our model. We used below command to see our model performance on test
@@ -82,4 +82,4 @@ After training for 10 Epochs, results look awesome!
 !python test.py --cfg cfg/yolov3-custom.cfg --data data/customdata/custom.data --weights weights/last.pt --batch-size 2 --save-json --task 'test'
 
 test_batch0
-![Test_images](test_batch0.jpeg)
+![Test_images](test_batch0.png)
