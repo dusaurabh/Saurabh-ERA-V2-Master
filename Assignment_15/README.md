@@ -529,7 +529,7 @@ Closing dataloader mosaic
 
 Below are some of the inference images
 
-![Output Image 3](outputs_images/output_3.jpg)
+![Output Image 3](outputs_images/output_3.png)
 
 Below is the input image 1
 
