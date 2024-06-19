@@ -1,6 +1,8 @@
 
 # This ERA V2 Assignment 19 of Session 19
-## In this assignment we were ask to train the nano-GPT by referring to 
+## In this assignment we were ask to train the nano-GPT
+
+### input.txt is the input data for the nano-GPT
 
 ### Below is the model loss
 
