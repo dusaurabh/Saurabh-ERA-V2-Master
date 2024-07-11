@@ -53,16 +53,10 @@ compression ratio: 6.58X
 ```
 In above, we get the compression ratio of 6.58 which is greater then 3 compression ratio which was mentioned in assignment goals
 
-#### Below is the tokenizer of hindi text in tiktokenizer platform of open ai. 
-
-![Tiktokenizer Image](outputs/output_2.png)
-
-As you can see, the total count of token is 757
-
 #### Below is the tokenizer of same hindi text in the code which i build
 
 ![Tiktokenizer Image](outputs/output_1.png)
 
-As you can see, the total count of token for the same text is 194
+As you can see, the total count of token for the text is 194
 
 As OpenAI didn't train much on Hindi language text dataset, so i decided to build the tokenizer for hindi dataset
