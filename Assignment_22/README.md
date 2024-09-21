@@ -17,4 +17,8 @@ Design a variation of a VAE that:
 
 ## Output for 25 MNIST images are
 
+![Output 1](output_images/cifar10_output_images.png)
+
 ## Output for 25 CIFAR images are
+
+![Output 2](output_images/minst_output_images.png)
