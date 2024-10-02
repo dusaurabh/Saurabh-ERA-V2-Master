@@ -1,7 +1,7 @@
 
 # This is ERA V2 Assignment 26
 
-# Q-Learning Grid World
+# Assignment 1 : Q-Learning Grid World
 
 ![Output 1](Assignment_1_Q_Learning_Grid/output_images/output_1.png)
 
@@ -50,3 +50,5 @@ Peusdo code
           - 1. First we will find the old_value of q by using self.getQValue(state, action)
           - 2. Then we will find the new_value of q by putting all the values in Q-Learning method
           - 3. Once we get the new_value of q then we will update the self.q_values[(state, action )] with the new_value we get in first 2nd step
+           
+# Assignment 2 : Car Simulation
