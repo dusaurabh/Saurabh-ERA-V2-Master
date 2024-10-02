@@ -52,3 +52,19 @@ Peusdo code
           - 3. Once we get the new_value of q then we will update the self.q_values[(state, action )] with the new_value we get in first 2nd step
            
 # Assignment 2 : Car Simulation
+
+### In this assignment, we were told to implement Car simulation.
+
+### For this assignment, i have used London City Map. Created the map images for that enviornment and train my car simulation on it
+
+## Check this Youtube video [Link](https://youtu.be/4hD1f4aykR4?si=pIKOpmwfY_GgW-0K). Do check it out !!
+
+### File contents
+
+- car.kv -> Kivy file for setting up car
+- ai.py -> model arhitecture
+- map.py -> main file which call ai.py where we have defined our custom enviornment, rewards, etc
+- images -> Here we have collected our custom enviornment images
+    - citymap.png -> main image file of london city
+    - mask.png -> mask object of the enviornment
+    - car.png -> car photo which we are using in out simulation
