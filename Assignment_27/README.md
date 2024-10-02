@@ -8,7 +8,10 @@
 
 ### File contents
 
-- car.kv - Kivy file for setting up car
-- ai.py - model arhitecture of T3D
-- map.py - main file which call ai.py where we have defined our custom enviornment, rewards,etc
-- 
+- car.kv -> Kivy file for setting up car
+- ai.py -> model arhitecture of T3D
+- map.py -> main file which call ai.py where we have defined our custom enviornment, rewards, etc
+- images -> Here we have collected our custom enviornment images
+    - citymap.png -> main image file of london city
+    - mask.png -> mask object of the enviornment
+    - car.png -> car photo which we are using in out simulation
