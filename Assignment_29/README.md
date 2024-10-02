@@ -1,7 +1,7 @@
 ## This is ERA V2 Assignment 29
 ### In this assignment we have Fine-tune the LLM using Phi3.5 and QLoRA with OpenAssist dataset
 
-## This is on [Huggingface space](https://huggingface.co/spaces/HimankJ/Phi3.5-QLoRA-Finetuned](https://huggingface.co/spaces/dusaurabh/era-2-llm). Do check it out !!
+## This is on [Huggingface space](https://huggingface.co/spaces/dusaurabh/era-2-llm). Do check it out !!
 
 ### Below is some output images
 
