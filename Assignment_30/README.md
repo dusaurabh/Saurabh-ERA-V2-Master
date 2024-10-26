@@ -26,8 +26,8 @@ Additional dependencies can be installed from requirements.txt
 
 ### Installation
 ```
-git clone https://huggingface.co/spaces/dusaurabh/era-2-multi-llm.git
-cd era-2-multi-llm
+git clone https://github.com/dusaurabh/Saurabh-ERA-V2-Master/tree/main
+cd Assignment_30
 pip install -r requirements.txt
 ```
 
