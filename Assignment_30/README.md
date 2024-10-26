@@ -78,6 +78,37 @@ Batch Processing: Process images, questions, and answers in batches, utilizing a
 
 For Training - I have used A100 90 GB server from paperspace and it took 24 hours for 1 epoch training
 
+### Training logs
+
+```
+True
+0 processed
+10000 processed
+20000 processed
+30000 processed
+40000 processed
+50000 processed
+60000 processed
+70000 processed
+80000 processed
+90000 processed
+100000 processed
+110000 processed
+120000 processed
+130000 processed
+140000 processed
+150000 processed
+Downloading images: 100%|██████████| 199770/199770 [00:00<00:00, 316668.19it/s]
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+
+I  12485
+Epoch 1/3, Average Loss: 2.4875
+Model checkpoint saved at model_checkpoints/model_checkpoint_epoch_1.pt
+
+```
+
+After 1 epoch i stop the training due to increase cost of A100 GPU
+
 ### Future Work
 Expand Dataset: Incorporate additional multi-modal datasets for broader knowledge and versatility.
 
